@@ -11,7 +11,7 @@ const Home = () => {
       <div className="h-10"></div>
       <div className="px-20">
       <Header/>
-      <div className="h-5"></div>
+      <div className="h-6"></div>
       <Line3 />
       <div className="h-10"></div>
       </div>
